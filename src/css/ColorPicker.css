@@ -1,0 +1,11 @@
+.showColor {
+  display: block;
+}
+
+.card-body {
+  display: flex;
+}
+
+.card-body > p {
+  margin-right: 20px;
+}
